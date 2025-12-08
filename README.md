@@ -100,7 +100,8 @@ Actual:
 - CPU:  
 - GPU:  
 - RAM:  
-- Blender Version:  
+- Blender Version:
+- Gather Resources version:
 
 #### 5. Files and Formats Involved
 Which types were present and which failed?
