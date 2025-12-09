@@ -40,30 +40,18 @@ A summary of collected files will appear in the status bar.
 
 ---
 
-## Roadmap (Speculative)
+## Roadmap
 
-### Alpha (Current Phase)
-- Avoid duplicate file creation by checking size+mtime before copy  
-- Smarter detection of duplicate files already present  
-
-### Beta
-- Confirm full cross-platform behaviour (Linux, Windows, macOS)  
-- Stabilise overwrite and conflict-resolution logic  
-
-### Production / Stable
+### Production / Stable (Current Phase)
 - Full bug elimination  
 - Hardened reliability for archiving, backup, and project transfer  
 
 ### Future Ideas
-- **Auto-Gather Mode** (toggle to run after saving or before rendering)
-- **Gather Proxy / Cache Data** into a separate folder  
-- **Distribute Resources**  
-  - Opposite of Gather — restore files to original locations using stored mappings  
 - **Cleanup Mode**  
   - Identify unused files  
   - Warn if other `.blend` files share dependencies  
   - Remove unreferenced assets for archiving  
-- **Menu streamlining** (collapse Pack + Gather tools under one section)
+- **Auto-Gather Mode** (toggle to run after saving or before rendering)
 
 ---
 
